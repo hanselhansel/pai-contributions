@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.0.2] - 2026-08-31
+
+### Changed
+
+- The portfolio relationship now points to the canonical `physical-ai-portfolio` repository.
+
 ## [0.0.0.1] - 2026-08-31
 
 ### Changed
