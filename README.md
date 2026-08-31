@@ -2,13 +2,18 @@
 
 Open-source contributions to Physical AI projects.
 
+## Focus
+
+Deployment, integration, and documentation contributions rather than model-training work.
+
 ## Target projects
 
-- LeRobot (Hugging Face)
-- ManiSkill
-- NVIDIA Isaac Lab
-- ros-controls / MoveIt 2
+- Open-RMF (robot fleet management)
+- ROS 2 / nav2 (navigation examples)
+- Isaac Sim / Isaac Lab (scenario examples, docs)
+- Foxglove (robotics visualization)
+- Any other project with a clear deployment or integration gap
 
 ## Log
 
-Track contributions in `foundation/docs/decisions/`.
+Track contributions in `../foundation/docs/decisions/`.
