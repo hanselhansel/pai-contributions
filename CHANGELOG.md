@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.0.2] - 2026-08-31
+
+### Changed
+
+- You can now follow the canonical [Physical AI Portfolio](https://github.com/hanselhansel/physical-ai-portfolio) from this repository's [portfolio relationship](README.md#portfolio-relationship).
+
 ## [0.0.0.1] - 2026-08-31
 
 ### Changed

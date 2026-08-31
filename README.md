@@ -40,6 +40,6 @@ Targets are candidates, not claims of contribution. A project appears as evidenc
 
 ## Portfolio relationship
 
-The current portfolio entry point is [physical-ai-foundation](https://github.com/hanselhansel/physical-ai-foundation). The approved destination is `physical-ai-portfolio`; the current URL remains authoritative until migration verification.
+The portfolio entry point is [physical-ai-portfolio](https://github.com/hanselhansel/physical-ai-portfolio).
 
 The working fork for the current contribution is [hanselhansel/warehouse-amr-ros2](https://github.com/hanselhansel/warehouse-amr-ros2). The fork remains attributed to its upstream owner.
