@@ -11,6 +11,7 @@ Open-source contributions to Physical AI projects owned by others. This track re
 - Next action: Recheck on 2026-09-07 if no maintainer response
 
 See the [contribution log](docs/contributions.md) for the authoritative record.
+See the [changelog](CHANGELOG.md) for release history.
 
 ## Scope
 
